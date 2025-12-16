@@ -125,25 +125,3 @@ Results, plots, and intermediate outputs are stored within each experiment direc
 **Research prototype / experimental codebase.**  
 This repository accompanies ongoing research and is intended for **reproducibility and extension** rather than production use.
 
----
-
-## Citation
-
-If you use this repository in academic work, please cite it as:
-
-```bibtex
-@software{MetaLNPs,
-  title        = {MetaLNPs: Meta-learning and Active Learning for LNP Response Prediction},
-  author       = {Sieber-Schäfer, Felix and contributors},
-  year         = {2025},
-  url          = {https://github.com/felixsie19/MetaLNPs}
-}
-```
-
-(Replace year/author fields as appropriate for your publication.)
-
----
-
-## License
-
-Add your license here (e.g., MIT, Apache-2.0) and include a `LICENSE` file in the repository.
