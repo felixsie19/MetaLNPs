@@ -1,0 +1,15 @@
+{
+  "pearson": 0.6255492323220473,
+  "spearman": 0.4716943328809604,
+  "rmse": 0.9559619145488334,
+  "mae": 0.6962027549743652,
+  "R2": 0.15672314167022705,
+  "n": 16,
+  "feature_cols": [
+    "Cationic_Lipid_to_mRNA_weight_ratio",
+    "Cationic_Lipid_Mol_Ratio",
+    "Phospholipid_Mol_Ratio",
+    "Cholesterol_Mol_Ratio",
+    "PEG_Lipid_Mol_Ratio"
+  ]
+}
