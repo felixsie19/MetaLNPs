@@ -24,8 +24,7 @@ The overall goal is to predict biological responses (e.g., **mRNA delivery effic
 - [Outputs and results](#outputs-and-results)
 - [Reproducibility](#reproducibility)
 - [Project status](#project-status)
-- [Citation](#citation)
-- [License](#license)
+
 
 ---
 
